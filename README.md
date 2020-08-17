@@ -1,4 +1,4 @@
-# dev-to-clone
+# nuxt-dev-to-clone
 
 ## Build Setup
 
